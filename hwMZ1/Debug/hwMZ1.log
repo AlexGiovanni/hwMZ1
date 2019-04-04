@@ -1,0 +1,8 @@
+﻿  main.cpp
+  solve.cpp
+c:\users\alexis\documents\hwmz1\hwmz1\solve.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexis\documents\hwmz1\hwmz1\solve.cpp(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexis\documents\hwmz1\hwmz1\solve.cpp(158): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\alexis\documents\hwmz1\hwmz1\solve.cpp(28): warning C4172: returning address of local variable or temporary: rowCol
+C:\Users\Alexis\Documents\hwMZ1\Debug\hwMZ1.pdb : fatal error LNK1318: Unexpected PDB error; FORMAT (11) 'C:\Users\Alexis\Documents\hwMZ1\Debug\hwMZ1.pdb'
